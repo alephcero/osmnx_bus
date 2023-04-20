@@ -1,3 +1,7 @@
+#data
+routes_data/*
+notebooks/cache/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
