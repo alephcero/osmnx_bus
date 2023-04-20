@@ -152,3 +152,7 @@ def get_way_order(element):
     "gets a element from a response_json_branch member and returns way id"
     if element['type'] == 'way':
         return element['ref']
+
+
+def imprimir():
+    print('a')
